@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia. I help my clients succeed online.'
+    title: 'Hi, I’m here for you and everyone!'
     subtitle: "This is interesting. \_It might be ideal for allowing clients to edit their own content"
     actions:
       - label: Contact Me
