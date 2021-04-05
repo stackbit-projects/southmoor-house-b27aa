@@ -1,25 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: 'Hi, I’m here for you and everyone!'
-    subtitle: "This is interesting. \_It might be ideal for allowing clients to edit their own content"
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
-    image: images/8E735D6C-6F56-4FAE-B2FB-CCA005F4F30F.jpeg
-    image_alt: A smiling woman
-    media_position: right
-    media_width: fifty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
-    background_image: images/watercolor.png
-    background_image_repeat: repeat
-    background_image_size: contain
-    background_image_opacity: 8
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
